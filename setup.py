@@ -14,6 +14,6 @@ setup(
     install_requires=[
         'falcon==1.4.1',
         'gunicorn==19.9.0',
-        'SQLAlchemy==1.2.7'
+        'SQLAlchemy==1.3.0'
     ],
 )
